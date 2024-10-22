@@ -12,6 +12,7 @@ Este proyecto contiene scripts para configurar una estructura de carpetas organi
 
 ### 1. Requisitos
 - **Obsidian** instalado.
+- **Un archivo `.md`** dentro del vault para que los scripts detecten la carpeta correctamente.  
 - Acceso a la terminal (macOS/Linux) o al símbolo del sistema (Windows).
 - Git (opcional si quieres clonar el proyecto directamente).
 
